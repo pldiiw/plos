@@ -1,0 +1,49 @@
+# * -> maybe?
+# () -> really not sure
+
+OpenRC
+musl-libc
+binutils
+zlib
+*file
+mawk
+busybox
+  not awk
+  not dpkg
+  not rpm
+  not sed
+bsd sed
+make
+linux-api-headers
+man
+gmp
+mpfr
+mpc
+gcc
+*pkg-config
+ncurses
+*attr
+*acl
+*libcap
+*shadow
+iana-etc
+m4
+bison
+flex
+*linenoise (readline alternative)
+dash
+zsh
+*bc
+(libtool?)
+expat
+perl
+xml::parser
+autoconf
+ninja
+automake
+kmod
+neovim
+e2fsprogs
+grub
+*kbd
+libpipeline
